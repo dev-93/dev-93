@@ -1,6 +1,6 @@
 ### Hi there 👋
-## Web Front-End Developer 
-## I have been working at a Start-up since August 2019.
+### Web Front-End Developer 
+### I have been working at a Start-up since August 2019.
 <!--
 **dev-93/dev-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
