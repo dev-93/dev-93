@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Web Front-End Developer 
-### I have been working at a Start-up since August 2019.
+I have been working at a Start-up since August 2019.
 ### Interest
 - Javascript + Type
 - performance optimization
