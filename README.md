@@ -12,7 +12,8 @@ I have been working at a Start-up since August 2019.
 ![](https://camo.githubusercontent.com/3098687a54cb06eabc2eccbb057c175024298507d9013d056e99e0d51fe9f2fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374796c65642d4442373039333f7374796c653d666c61742d737175617265266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465)
 
 [📙 portfolio](https://taenam.notion.site/2157e272e964476392fb8a99996e7c04)
-![blog](https://taenami.tistory.com/)
+
+[📫 blog](https://taenami.tistory.com/)
 
 <!--
 **dev-93/dev-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
