@@ -1,8 +1,11 @@
 ### Web Front-End Developer 
 I have been working at a Start-up since August 2019.
 
+[Resume](https://taenam.notion.site/2157e272e964476392fb8a99996e7c04)
 
-### Tech-Stack
+[Blog](https://taenami.tistory.com/)
+
+### Skills
 
 ![](https://camo.githubusercontent.com/1552d2596cea2d6a701b5df74c7fecfd7e3af38daf3de396c40dee419139a266/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/aa89e8c48bfb66401e4886a979b805fd74e45f50540efe10a90c76c3d96e2488/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
@@ -17,11 +20,10 @@ I have been working at a Start-up since August 2019.
 ![](https://camo.githubusercontent.com/5fffcd5b41bae5b026a20839da9319ccf0343276a74a6b19be90af9a9bb1ff36/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d6332633563353f7374796c653d666c6174266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d333339393333)
 ![](https://camo.githubusercontent.com/29437b7595959124268299622f46cad2c8442c3f2a4d311cd33f9f3633a8c3cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d6631643864393f7374796c653d666c6174266c6f676f3d4d7953514c266c6f676f436f6c6f723d343437394131)
 
-[Resume](https://taenam.notion.site/2157e272e964476392fb8a99996e7c04)
+### Education
+- Hanbat National University(2012.02 ~ 2018.02)
+  - Urban Engineering
 
-[Blog](https://taenami.tistory.com/)
-
-- Email: cjb940103@gmail.com
 
 <!--
 **dev-93/dev-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
