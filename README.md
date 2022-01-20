@@ -1,5 +1,5 @@
 ### Web Front-End Developer 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Taenam%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Taenam%20Kim&fontSize=90)
 
 ## 👩🏻‍💻 About me
 - I have been working at a Start-up since August 2019.
