@@ -1,7 +1,7 @@
 ### Web Front-End Developer 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Taenam%20Kim&fontSize=90)
 
-##👩🏻‍💻 About me
+## 👩🏻‍💻 About me
 - I have been working at a Start-up since August 2019.
 [Resume](https://taenam.notion.site/2157e272e964476392fb8a99996e7c04)
 [Blog](https://taenami.tistory.com/)
@@ -23,6 +23,8 @@
 
 ![](https://camo.githubusercontent.com/5fffcd5b41bae5b026a20839da9319ccf0343276a74a6b19be90af9a9bb1ff36/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d6332633563353f7374796c653d666c6174266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d333339393333)
 ![](https://camo.githubusercontent.com/29437b7595959124268299622f46cad2c8442c3f2a4d311cd33f9f3633a8c3cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d6631643864393f7374796c653d666c6174266c6f676f3d4d7953514c266c6f676f436f6c6f723d343437394131)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-93&layout=compact)](https://github.com/dev-93/github-readme-stats)
 
 ### Education
 - Hanbat National University(2012.02 ~ 2018.02)
