@@ -1,10 +1,11 @@
 ### Web Front-End Developer 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Taenam%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Taenam%20Kim&fontSize=90)
 
 ## 👩🏻‍💻 About me
 - I have been working at a Start-up since August 2019.
-[Resume](https://taenam.notion.site/2157e272e964476392fb8a99996e7c04)
-[Blog](https://taenami.tistory.com/)
+- [Resume](https://taenam.notion.site/2157e272e964476392fb8a99996e7c04)
+- blog : https://taenami.tistory.com/
+- contact : nahee.developer@gmail.com
 
 ## 🛠 Tech Stack 🛠
 
