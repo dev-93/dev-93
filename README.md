@@ -1,15 +1,12 @@
 ### Web Front-End Developer 
-I have been working at a Start-up since August 2019.
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Taenam%20Kim&fontSize=90)
 
-👩🏻‍💻 About me
-
-
+##👩🏻‍💻 About me
+- I have been working at a Start-up since August 2019.
 [Resume](https://taenam.notion.site/2157e272e964476392fb8a99996e7c04)
-
 [Blog](https://taenami.tistory.com/)
 
-### Skills
+## 🛠 Tech Stack 🛠
 
 ![](https://camo.githubusercontent.com/1552d2596cea2d6a701b5df74c7fecfd7e3af38daf3de396c40dee419139a266/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/aa89e8c48bfb66401e4886a979b805fd74e45f50540efe10a90c76c3d96e2488/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
