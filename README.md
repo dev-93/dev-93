@@ -27,10 +27,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-93&layout=compact)](https://github.com/dev-93)
 
-### Education
-- Hanbat National University(2012.02 ~ 2018.02)
-  - Urban Engineering
-
 
 <!--
 **dev-93/dev-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
