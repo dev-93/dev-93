@@ -3,9 +3,9 @@
 
 ## 👩🏻‍💻 About me
 - I have been working at a Start-up since August 2019.
-- [Resume](https://taenam.notion.site/2157e272e964476392fb8a99996e7c04)
+- Resume: https://taenam.notion.site/2157e272e964476392fb8a99996e7c04
 - blog : https://taenami.tistory.com/
-- contact : nahee.developer@gmail.com
+- contact : cjb940103@gmail.com
 
 ## 🛠 Tech Stack 🛠
 
