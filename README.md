@@ -1,5 +1,9 @@
 ### Web Front-End Developer 
 I have been working at a Start-up since August 2019.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Taenam%20Kim&desc=Hello&fontSize=90)
+
+👩🏻‍💻 About me
+
 
 [Resume](https://taenam.notion.site/2157e272e964476392fb8a99996e7c04)
 
