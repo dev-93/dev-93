@@ -20,10 +20,11 @@
 <span><img alt="SCSS" src ="https://img.shields.io/badge/SCSS-CC6699.svg?&style=flat&logo=Sass&logoColor=white"/></span>
 
 <span><img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white"/></span>
+<span><img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat&logo=Vue.js&logoColor=white"/></span>
+
 <span><img alt="MobX" src ="https://img.shields.io/badge/MobX-FF9955.svg?&style=flat&MobX=Sass&logoColor=white"/></span>
 <span><img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=flat&logo=Next.js&logoColor=white"/></span>
-
-<span><img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat&logo=Vue.js&logoColor=white"/></span>
+<span><img alt="styled-components" src ="https://img.shields.io/badge/styled-components-DB7093.svg?&style=flat&logo=styled-components&logoColor=white"/></span>
 
 <span><img alt="Babel" src ="https://img.shields.io/badge/Babel-F9DC3E.svg?&style=flat&logo=Babel&logoColor=white"/></span>
 <span><img alt="Webpack" src ="https://img.shields.io/badge/Webpack-8DD6F9.svg?&style=flat&logo=Webpack&logoColor=white"/></span>
