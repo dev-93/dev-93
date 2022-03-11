@@ -20,7 +20,7 @@
 <span><img alt="SCSS" src ="https://img.shields.io/badge/SCSS-CC6699.svg?&style=flat&logo=Sass&logoColor=white"/></span>
 
 <span><img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white"/></span>
-<span><img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat&logo=Vue.js&logoColor=white"/></span>
+<span><img alt="Vue.js" src ="https://img.shields.io/badge/Vue-4FC08D.svg?&style=flat&logo=Vue.js&logoColor=white"/></span>
 
 <span><img alt="MobX" src ="https://img.shields.io/badge/MobX-FF9955.svg?&style=flat&MobX=Sass&logoColor=white"/></span>
 <span><img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=flat&logo=Next.js&logoColor=white"/></span>
