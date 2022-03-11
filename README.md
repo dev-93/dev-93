@@ -24,7 +24,7 @@
 
 <span><img alt="MobX" src ="https://img.shields.io/badge/MobX-FF9955.svg?&style=flat&MobX=Sass&logoColor=white"/></span>
 <span><img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=flat&logo=Next.js&logoColor=white"/></span>
-<span><img alt="styled-components" src ="https://img.shields.io/badge/styled-components-DB7093.svg?&style=flat&logo=styled-components&logoColor=white"/></span>
+<span><img alt="styled-components" src ="https://img.shields.io/badge/styled-DB7093.svg?&style=flat&logo=styled-components&logoColor=white"/></span>
 
 <span><img alt="Babel" src ="https://img.shields.io/badge/Babel-F9DC3E.svg?&style=flat&logo=Babel&logoColor=white"/></span>
 <span><img alt="Webpack" src ="https://img.shields.io/badge/Webpack-8DD6F9.svg?&style=flat&logo=Webpack&logoColor=white"/></span>
@@ -32,9 +32,10 @@
 <span><img alt="Prettier" src ="https://img.shields.io/badge/Prettier-F7B93E.svg?&style=flat&logo=Prettier&logoColor=white"/></span>
 
 ### Backend 
-![](https://camo.githubusercontent.com/5fffcd5b41bae5b026a20839da9319ccf0343276a74a6b19be90af9a9bb1ff36/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d6332633563353f7374796c653d666c6174266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d333339393333)
-![](https://camo.githubusercontent.com/29437b7595959124268299622f46cad2c8442c3f2a4d311cd33f9f3633a8c3cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d6631643864393f7374796c653d666c6174266c6f676f3d4d7953514c266c6f676f436f6c6f723d343437394131)
-![](https://camo.githubusercontent.com/902d3225cd0a52691909098a015d77f6c43d3cc12a4c03121022246dee0a74e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f612d3333333333443f7374796c653d666c61742d737175617265266c6f676f3d4b6f61266c6f676f436f6c6f723d7768697465)
+<span><img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white"/></span>
+<span><img alt="Koa" src ="https://img.shields.io/badge/Koa-33333D.svg?&style=flat&logo=Koa&logoColor=white"/></span>
+<span><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/></span>
+<span><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=MongoDB&logoColor=white"/></span>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-93&layout=compact)](https://github.com/dev-93)
 
