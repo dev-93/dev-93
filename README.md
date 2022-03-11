@@ -23,7 +23,7 @@
 <span><img alt="Vue.js" src ="https://img.shields.io/badge/Vue-4FC08D.svg?&style=flat&logo=Vue.js&logoColor=white"/></span>
 
 <span><img alt="MobX" src ="https://img.shields.io/badge/MobX-FF9955.svg?&style=flat&MobX=Sass&logoColor=white"/></span>
-<span><img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=flat&logo=Next.js&logoColor=white"/></span>
+<span><img alt="Next.js" src ="https://img.shields.io/badge/Next-000000.svg?&style=flat&logo=Next.js&logoColor=white"/></span>
 <span><img alt="styled-components" src ="https://img.shields.io/badge/styled-DB7093.svg?&style=flat&logo=styled-components&logoColor=white"/></span>
 
 <span><img alt="Babel" src ="https://img.shields.io/badge/Babel-F9DC3E.svg?&style=flat&logo=Babel&logoColor=white"/></span>
@@ -32,7 +32,7 @@
 <span><img alt="Prettier" src ="https://img.shields.io/badge/Prettier-F7B93E.svg?&style=flat&logo=Prettier&logoColor=white"/></span>
 
 ### Backend 
-<span><img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white"/></span>
+<span><img alt="Node.js" src ="https://img.shields.io/badge/Node-339933.svg?&style=flat&logo=Node.js&logoColor=white"/></span>
 <span><img alt="Koa" src ="https://img.shields.io/badge/Koa-33333D.svg?&style=flat&logo=Koa&logoColor=white"/></span>
 <span><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/></span>
 <span><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=MongoDB&logoColor=white"/></span>
