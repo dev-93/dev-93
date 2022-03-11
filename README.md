@@ -14,6 +14,10 @@
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/><img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=TypeScript&logoColor=white"/>
 
 ### Frontend
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
+<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
+<img alt="SCSS" src ="https://img.shields.io/badge/SCSS-CC6699.svg?&style=flat&logo=Sass&logoColor=white"/>
+
 ![](https://camo.githubusercontent.com/1552d2596cea2d6a701b5df74c7fecfd7e3af38daf3de396c40dee419139a266/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/aa89e8c48bfb66401e4886a979b805fd74e45f50540efe10a90c76c3d96e2488/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/d828e5ec888b7c8d9a82b4eb49fe1d758dcc12724951b580bec70cf6d85e01fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536373732d677265656e3f7374796c653d666c6174266c6f676f3d53617373266c6f676f436f6c6f723d434336363939)
