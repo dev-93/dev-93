@@ -37,6 +37,12 @@
 <span><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/></span>
 <span><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=MongoDB&logoColor=white"/></span>
 
+### Tools
+<span><img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=Figma&logoColor=white"/></span>
+<span><img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=Slack&logoColor=white"/></span>
+<span><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white"/></span>
+<span><img alt="Jira" src ="https://img.shields.io/badge/Jira-0052CC.svg?&style=flat&logo=Jira&logoColor=white"/></span>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-93&layout=compact)](https://github.com/dev-93)
 
 
