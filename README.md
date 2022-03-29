@@ -24,7 +24,7 @@
 
 <span><img alt="MobX" src ="https://img.shields.io/badge/MobX-FF9955.svg?&style=flat&MobX=Sass&logoColor=white"/></span>
 <span><img alt="Next.js" src ="https://img.shields.io/badge/Next-000000.svg?&style=flat&logo=Next.js&logoColor=white"/></span>
-<span><img alt="styled-components" src ="https://img.shields.io/badge/styled-DB7093.svg?&style=flat&logo=styled-components&logoColor=white"/></span>
+<span><img alt="styled-components" src ="https://img.shields.io/badge/styled-components-DB7093.svg?&style=flat&logo=styled-components&logoColor=white"/></span>
 
 <span><img alt="Babel" src ="https://img.shields.io/badge/Babel-F9DC3E.svg?&style=flat&logo=Babel&logoColor=white"/></span>
 <span><img alt="Webpack" src ="https://img.shields.io/badge/Webpack-8DD6F9.svg?&style=flat&logo=Webpack&logoColor=white"/></span>
