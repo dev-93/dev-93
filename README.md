@@ -38,7 +38,7 @@
 
 ### Devops
 <span><img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white"/></span>
-<span><img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=flat&logo=AWS&logoColor=white"/></span>
+<span><img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=flat&logo=Amazon AWS&logoColor=white"/></span>
 <span><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=MongoDB&logoColor=white"/></span>
 
 ### Tools
