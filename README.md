@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Taenam%20Kim&fontSize=90)
 
 ## 👩🏻‍💻 About me
-- I have been working at a Start-up since August 2019.
+- resume: https://taenam.notion.site/Resume-2157e272e964476392fb8a99996e7c04
 - blog : https://taenami.tistory.com/
 - contact : cjb940103@gmail.com
 
