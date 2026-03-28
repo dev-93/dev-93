@@ -1,3 +1,4 @@
+### AI & Web Front-End Developer 
 ```
   ████████╗ █████╗ ███████╗███╗   ██╗ █████╗ ███╗   ███╗
      ██╔══╝██╔══██╗██╔════╝████╗  ██║██╔══██╗████╗ ████║
@@ -6,9 +7,6 @@
      ██║   ██║  ██║███████╗██║ ╚████║██║  ██║██║ ╚═╝ ██║
      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝
 ```
-
-### Web Front-End Developer 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Taenam%20Kim&fontSize=90)
 
 ## 👩🏻‍💻 About me
 - resume: https://taenam.notion.site/Resume-2157e272e964476392fb8a99996e7c04
