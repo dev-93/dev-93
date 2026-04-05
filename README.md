@@ -14,17 +14,6 @@
 
 <br />
 
-## 🚀 What I Build
-
-AI를 단순히 '도구'로 쓰는 게 아니라, **프로덕트 설계 단계부터 배포까지** 전 과정에 통합합니다.
-
-| 프로젝트 | 설명 | 스택 |
-|---|---|---|
-| **왜 안돼? (Why Can't You?)** | 어린이 안전 교육 유튜브 숏츠 — Claude API 시나리오 작성 → Kling AI 영상 생성 → 자동 배포 파이프라인 구축 | Claude API · Kling AI · Next.js · Vercel |
-| **AirRouteX** | 국내 UAM(도심항공교통) 투자 커뮤니티 운영 · 자동화 공시 공유 시스템 직접 구축 · 회원 **500명+** | Naver Cafe · GitHub Actions · Node.js |
-
----
-
 ## 🤖 AI-Driven Development
 > 저는 AI를 활용해 **기획 → 개발 → 배포** 사이클을 혼자서 빠르게 돌립니다.
 
