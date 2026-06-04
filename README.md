@@ -21,7 +21,7 @@
 1. AI 에이전트와 페어 프로그래밍 — Kiro CLI, Claude Code로 기획부터 구현까지 대화하면서 빌드 (.kiro, .agent 폴더가 모든 프로젝트에 존재)
 2. AI에게 역할 부여해서 협업 — biz-planner, biz-engineer, biz-marketer 등 역할별 에이전트 스킬 설계 후 자동화
 3. 프롬프트 기반 자동화 파이프라인 — UAM 분석 봇이 크롤링→분석→차트생성→발행을 자동 수행 (src/prompts, cron-runner)
-4. AI로 풀스택 1인 개발 — 주식 분석(Python+Vue), 유튜브 파이프라인(Next.js), 데이팅앱(Vue) 등을 AI와 빠르게 빌드 후 배포
+4. AI로 풀스택 1인 개발 — 주식 분석(Python+Vue), 유튜브 파이프라인(Next.js), 언어 학습(Vue) 등을 AI와 빠르게 빌드 후 배포
 ---
 
 ### Frontend Developer × AI Builder
