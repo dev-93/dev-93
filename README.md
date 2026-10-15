@@ -28,9 +28,6 @@
 
 **"코드를 짜는 개발자가 아니라, AI와 함께 제품을 만드는 빌더"**
 
-[![Resume](https://img.shields.io/badge/📄_Resume-000000?style=for-the-badge)](https://taenam.notion.site/Resume-2157e272e964476392fb8a99996e7c04)
-[![Email](https://img.shields.io/badge/📬_Contact-EA4335?style=for-the-badge)](mailto:cjb940103@gmail.com)
-
 </div>
 
 ---
