@@ -9,7 +9,7 @@
 ```
 
 ## 👩🏻‍💻 About me
-- resume: https://taenam.notion.site/Resume-2157e272e964476392fb8a99996e7c04
+- resume: [linkedIn](https://www.linkedin.com/in/taenam)
 - contact : cjb940103@gmail.com
 
 <br />
