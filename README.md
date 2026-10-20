@@ -28,9 +28,13 @@
 
 ## AI로 일하는 방식
 
-- OpenCode와 Codex로 개발합니다.
-- 저장소마다 `AGENTS.md`에 규칙과 검증 절차를 적습니다. 예: [collector-user-pain의 `AGENTS.md`](https://github.com/dev-93/collector-user-pain/blob/main/AGENTS.md)는 AI 출력을 근거가 아닌 후보로 다루고, 사람이 원문을 확인한 항목만 저장하도록 정해 두었습니다.
-- 에이전트 구조는 필요한 만큼만 두고, 결과는 직접 실행해서 확인합니다.
+- **도구:** 개발은 OpenCode와 Codex, 조사와 의사결정은 ChatGPT로 나눠 씁니다.
+- **규칙:** 저장소마다 `AGENTS.md`에 규칙과 완료 기준을 적습니다. [collector-user-pain의 `AGENTS.md`](https://github.com/dev-93/collector-user-pain/blob/main/AGENTS.md)는 AI 출력을 근거가 아닌 후보로 다루고, 사람이 원문을 확인한 항목만 저장하도록 정해 두었습니다.
+- **반복 절차:** 반복되는 작업은 Skills로 분리합니다. 예: 커뮤니티 원문 조사 절차([`skills/`](https://github.com/dev-93/collector-user-pain/tree/main/skills)).
+- **기록:** 프로젝트의 상태와 결정은 Notion에, 구현 방법은 코드와 문서에 둡니다. 확인한 사실, 가설, 결정을 구분해서 적습니다.
+- **컨텍스트 관리:** OpenCode 세션 기록을 보니 Notion MCP의 도구 정의가 시작 컨텍스트의 대부분을 차지했습니다. 이 호출을 전용 서브에이전트로 분리해 메인 세션의 시작 컨텍스트를 평균 약 90K에서 13–19K 토큰으로 줄였습니다. 적용 전후 작업이 달라 엄밀한 비교는 아닙니다.
+- **검증:** 설정에 적힌 것과 실제로 동작한 것을 구분하고, 결과는 직접 실행해서 확인합니다.
+- **도구 추가:** 하네스나 오케스트레이터를 미리 만들지 않고 내장 기능을 먼저 씁니다. 반복되는 실패가 확인되면 그때 추가합니다.
 
 <br />
 
