@@ -5,11 +5,21 @@
 
 ## Stack
 
-| | |
-| --- | --- |
-| **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
-| **Deploy · Automation** | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) |
-| **AI · Integration** | ![OpenCode](https://img.shields.io/badge/OpenCode-111111?style=flat-square) ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Notion](https://img.shields.io/badge/Notion_API-000000?style=flat-square&logo=notion&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white) |
+**Front-end** · 업무 경력
+
+- **언어·스타일** JavaScript · TypeScript · HTML · CSS · SCSS
+- **프레임워크·상태** Vue · Vue Router · Vuex · Pinia · React · Next.js · MobX · Recoil
+- **빌드·테스트** Webpack · Babel · Vite · Jest · Playwright
+- **배포·협업** AWS S3 · CloudFront · Git · Azure DevOps
+
+**개인 프로젝트에서 추가로 쓰는 것**
+
+- **서버·배포** Node.js · Vercel · GitHub Actions · Railway
+
+**AI**
+
+- **개발 도구** OpenCode · Codex · ChatGPT
+- **프로젝트 연동** Gemini API · Notion API · Telegram Bot
 
 <br />
 
