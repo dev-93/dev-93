@@ -5,7 +5,7 @@
 
 ## Stack
 
-**Front-end** · 업무 경력
+**Front-end**
 
 - **언어·스타일** JavaScript · TypeScript · HTML · CSS · SCSS
 - **프레임워크·상태** Vue · Vue Router · Vuex · Pinia · React · Next.js · MobX · Recoil
