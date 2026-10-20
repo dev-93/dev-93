@@ -12,9 +12,11 @@
 - **빌드·테스트** Webpack · Babel · Vite · Jest · Playwright
 - **배포·협업** AWS S3 · CloudFront · Git · Azure DevOps
 
-**개인 프로젝트에서 추가로 쓰는 것**
+**Backend · Infra**
 
-- **서버·배포** Node.js · Vercel · GitHub Actions · Railway
+- **런타임** Node.js
+- **배포·호스팅** Vercel · Railway
+- **자동화·CI** GitHub Actions
 
 **AI**
 
