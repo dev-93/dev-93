@@ -29,13 +29,6 @@
 
 모두 AI와 함께 구현한 개인 프로젝트입니다.
 
-| 프로젝트 | 설명 |
-| --- | --- |
-| [**Koi-Language**](https://github.com/dev-93/Koi-Language) · [데모](https://koi-language.vercel.app) | 연애 상황별 일본어 표현을 AI로 생성해 보여주는 일본어 학습 앱 (Next.js) |
-| [**useful-youngkk**](https://github.com/dev-93/useful-youngkk) | 서울 청년 공공임대·행복주택 공고를 수집해 텔레그램과 Notion에 전달하는 봇 (GitHub Actions) |
-| [**collector-user-pain**](https://github.com/dev-93/collector-user-pain) | 한국 사용자의 반복 불편을 원문으로 확인하고 검증할 문제로 정리하는 조사 도구 (Telegram · Notion · Gemini) |
-| **AirRouteX** (비공개) | 항공우주·방산 섹터의 뉴스·공시·리서치를 수집해 AI로 분석하고 자동 발행하는 시스템 |
-
 <br />
 
 ## AI로 일하는 방식
