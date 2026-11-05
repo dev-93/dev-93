@@ -31,7 +31,18 @@
 - 작업 규칙은 `AGENTS.md`에, 반복 절차는 Skills에 정리합니다. 상태와 결정은 Notion에 기록합니다.
 - 내장 기능을 먼저 활용하고, 결과는 직접 실행해 검증합니다.
 
-### Codex 활동
+### AI 코딩 활동
+
+Codex · Antigravity · Claude Code의 이 Mac에 기록된 활동입니다.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-dark.svg" />
+  <img src="assets/ai-usage-light.svg" alt="Codex, Antigravity, Claude Code 일별 토큰 활동 그래프" width="690" />
+</picture>
+
+<sub>매일 갱신 · 로컬 기록 기준 · 캐시 토큰 포함</sub>
+
+### Codex 계정 활동
 
 <img src="assets/codex-activity.svg" alt="Codex 일별 토큰 활동 그래프" width="690" />
 

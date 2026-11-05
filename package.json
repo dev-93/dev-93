@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ai-usage-heatmap": "0.1.0",
+    "ccusage": "20.0.48"
+  }
+}
