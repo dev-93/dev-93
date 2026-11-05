@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Combine only the requested local ccusage sources and render the OSS heatmap."""
 import json
+import hashlib
 from pathlib import Path
+import re
 import subprocess
 import tempfile
 
@@ -30,6 +32,7 @@ def main():
 
     with tempfile.TemporaryDirectory(prefix="ai-activity-") as temporary:
         tmp = Path(temporary)
+        versions = {}
         for source, values in (("all", daily), *by_source.items()):
             data = tmp / "daily.json"
             data.write_text(json.dumps([{"date": day, "total": total} for day, total in sorted(values.items())]), encoding="utf-8")
@@ -38,7 +41,18 @@ def main():
             for theme in ("light", "dark"):
                 name = f"ai-usage-{theme}.svg"
                 target = name if source == "all" else f"ai-usage-{source}-{theme}.svg"
-                (ROOT / "assets" / target).write_bytes((tmp / name).read_bytes())
+                content = (tmp / name).read_bytes()
+                (ROOT / "assets" / target).write_bytes(content)
+                versions[target] = hashlib.sha256(content).hexdigest()[:12]
+
+        readme = ROOT / "README.md"
+        text = readme.read_text(encoding="utf-8")
+        for name, version in versions.items():
+            pattern = r"assets/" + re.escape(name) + r"(?:\?v=[0-9a-f]+)?"
+            text, count = re.subn(pattern, f"assets/{name}?v={version}", text)
+            if count != 1:
+                raise ValueError(f"README에 {name} 이미지가 정확히 한 번 있어야 합니다.")
+        readme.write_text(text, encoding="utf-8")
 
 
 if __name__ == "__main__":

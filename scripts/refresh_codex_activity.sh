@@ -12,7 +12,7 @@ git fetch --quiet origin main
 [[ "$(git rev-parse HEAD)" == "$(git rev-parse origin/main)" ]] || exit 0
 
 python3 scripts/update_ai_activity.py
-git diff --quiet -- 'assets/ai-usage-*.svg' && exit 0
-git add -- 'assets/ai-usage-*.svg'
-git commit --quiet --only -m "Update AI activity" -- 'assets/ai-usage-*.svg'
+git diff --quiet -- README.md 'assets/ai-usage-*.svg' && exit 0
+git add -- README.md 'assets/ai-usage-*.svg'
+git commit --quiet --only -m "Update AI activity" -- README.md 'assets/ai-usage-*.svg'
 git push --quiet origin main
