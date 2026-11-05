@@ -33,7 +33,7 @@ def main():
     with tempfile.TemporaryDirectory(prefix="ai-activity-") as temporary:
         tmp = Path(temporary)
         versions = {}
-        for source, values in (("all", daily), *by_source.items()):
+        for source, values in (("all", daily), *((name, by_source[name]) for name in ("codex", "antigravity"))):
             data = tmp / "daily.json"
             data.write_text(json.dumps([{"date": day, "total": total} for day, total in sorted(values.items())]), encoding="utf-8")
             subprocess.run([str(BIN / "ai-usage-heatmap"), "render", "--source", "json", "--input", str(data), "--out-dir", str(tmp)],
