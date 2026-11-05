@@ -35,15 +35,6 @@
 
 <img src="assets/codex-activity.svg" alt="Codex 일별 토큰 활동 그래프" width="690" />
 
-<details>
-<summary>Codex 프로필 캡처 보기</summary>
-
-<img src="assets/codex-activity-2026-11-05.png" alt="Codex 토큰 활동 기록" width="700" />
-
-<sub>2026년 11월 5일 캡처</sub>
-
-</details>
-
 <br />
 
 ## 연락
