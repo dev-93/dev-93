@@ -42,9 +42,31 @@ Codex · Antigravity · Claude Code의 이 Mac에 기록된 활동입니다.
 
 <sub>매일 갱신 · 로컬 기록 기준 · 캐시 토큰 포함</sub>
 
-### Codex 계정 활동
+<details>
+<summary>도구별 활동 보기</summary>
 
-<img src="assets/codex-activity.svg" alt="Codex 일별 토큰 활동 그래프" width="690" />
+**Codex**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-codex-dark.svg" />
+  <img src="assets/ai-usage-codex-light.svg" alt="Codex 일별 토큰 활동" width="690" />
+</picture>
+
+**Antigravity**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-antigravity-dark.svg" />
+  <img src="assets/ai-usage-antigravity-light.svg" alt="Antigravity 일별 토큰 활동" width="690" />
+</picture>
+
+**Claude Code**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-claude-dark.svg" />
+  <img src="assets/ai-usage-claude-light.svg" alt="Claude Code 일별 토큰 활동" width="690" />
+</picture>
+
+</details>
 
 <br />
 
