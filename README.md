@@ -36,8 +36,8 @@
 Codex · Antigravity · Claude Code의 이 Mac에 기록된 활동입니다.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-dark.svg?v=931d130a4251" />
-  <img src="assets/ai-usage-light.svg?v=b5dc3edf365d" alt="Codex, Antigravity, Claude Code 일별 토큰 활동 그래프" width="690" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-dark.svg?v=ee09327c0126" />
+  <img src="assets/ai-usage-light.svg?v=8a819116ed1a" alt="Codex, Antigravity, Claude Code 일별 토큰 활동 그래프" width="690" />
 </picture>
 
 <sub>매일 갱신 · 로컬 기록 기준 · 캐시 토큰 포함</sub>
@@ -48,15 +48,15 @@ Codex · Antigravity · Claude Code의 이 Mac에 기록된 활동입니다.
 **Codex**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-codex-dark.svg?v=838d15c0114f" />
-  <img src="assets/ai-usage-codex-light.svg?v=856105b9f454" alt="Codex 일별 토큰 활동" width="690" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-codex-dark.svg?v=3cafa56d937a" />
+  <img src="assets/ai-usage-codex-light.svg?v=8ca7ff7dbf93" alt="Codex 일별 토큰 활동" width="690" />
 </picture>
 
 **Antigravity**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-antigravity-dark.svg?v=0ad66912d51b" />
-  <img src="assets/ai-usage-antigravity-light.svg?v=990502f1f90e" alt="Antigravity 일별 토큰 활동" width="690" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-antigravity-dark.svg?v=9f0af6078447" />
+  <img src="assets/ai-usage-antigravity-light.svg?v=3007b279a74a" alt="Antigravity 일별 토큰 활동" width="690" />
 </picture>
 
 </details>

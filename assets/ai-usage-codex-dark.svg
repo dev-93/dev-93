@@ -4,23 +4,23 @@
   <text x="30" y="16" font-size="11" font-weight="600" fill="#e6edf3">AI token usage</text>
   <g>
     <text x="30" y="38" font-size="8.5" letter-spacing="0.08em" fill="#8d96a0">ALL TIME</text>
-    <text x="30" y="57" font-size="17" font-weight="700" fill="#e6edf3">301.8M</text>
+    <text x="30" y="57" font-size="17" font-weight="700" fill="#e6edf3">290.6M</text>
   </g>
   <g>
     <text x="177.8" y="38" font-size="8.5" letter-spacing="0.08em" fill="#8d96a0">LAST 30 DAYS</text>
-    <text x="177.8" y="57" font-size="17" font-weight="700" fill="#e6edf3">257.1M</text>
+    <text x="177.8" y="57" font-size="17" font-weight="700" fill="#e6edf3">245.9M</text>
   </g>
   <g>
     <text x="325.6" y="38" font-size="8.5" letter-spacing="0.08em" fill="#8d96a0">LAST 7 DAYS</text>
-    <text x="325.6" y="57" font-size="17" font-weight="700" fill="#e6edf3">197.7M</text>
+    <text x="325.6" y="57" font-size="17" font-weight="700" fill="#e6edf3">193.2M</text>
   </g>
   <g>
     <text x="473.4" y="38" font-size="8.5" letter-spacing="0.08em" fill="#8d96a0">TODAY</text>
-    <text x="473.4" y="57" font-size="17" font-weight="700" fill="#e6edf3">71M</text>
+    <text x="473.4" y="57" font-size="17" font-weight="700" fill="#e6edf3">18M</text>
   </g>
   <g>
     <text x="621.2" y="38" font-size="8.5" letter-spacing="0.08em" fill="#8d96a0">ACTIVE DAYS</text>
-    <text x="621.2" y="57" font-size="17" font-weight="700" fill="#e6edf3">28</text>
+    <text x="621.2" y="57" font-size="17" font-weight="700" fill="#e6edf3">29</text>
   </g>
   <text x="86" y="86">Dec</text>
   <text x="142" y="86">Jan</text>
@@ -391,22 +391,23 @@
   <rect x="730" y="108" width="11" height="11" rx="2" fill="#26a641" data-date="2026-10-19" data-level="3"/>
   <rect x="730" y="122" width="11" height="11" rx="2" fill="#161b22" data-date="2026-10-20" data-level="0"/>
   <rect x="730" y="136" width="11" height="11" rx="2" fill="#006d32" data-date="2026-10-21" data-level="2"/>
-  <rect x="730" y="150" width="11" height="11" rx="2" fill="#0e4429" data-date="2026-10-22" data-level="1"/>
-  <rect x="730" y="164" width="11" height="11" rx="2" fill="#26a641" data-date="2026-10-23" data-level="3"/>
+  <rect x="730" y="150" width="11" height="11" rx="2" fill="#006d32" data-date="2026-10-22" data-level="2"/>
+  <rect x="730" y="164" width="11" height="11" rx="2" fill="#39d353" data-date="2026-10-23" data-level="4"/>
   <rect x="730" y="178" width="11" height="11" rx="2" fill="#26a641" data-date="2026-10-24" data-level="3"/>
   <rect x="744" y="94" width="11" height="11" rx="2" fill="#39d353" data-date="2026-10-25" data-level="4"/>
   <rect x="744" y="108" width="11" height="11" rx="2" fill="#006d32" data-date="2026-10-26" data-level="2"/>
   <rect x="744" y="122" width="11" height="11" rx="2" fill="#39d353" data-date="2026-10-27" data-level="4"/>
   <rect x="744" y="136" width="11" height="11" rx="2" fill="#39d353" data-date="2026-10-28" data-level="4"/>
   <rect x="744" y="150" width="11" height="11" rx="2" fill="#26a641" data-date="2026-10-29" data-level="3"/>
-  <rect x="744" y="164" width="11" height="11" rx="2" fill="#39d353" data-date="2026-10-30" data-level="4"/>
+  <rect x="744" y="164" width="11" height="11" rx="2" fill="#0e4429" data-date="2026-10-30" data-level="1"/>
   <rect x="744" y="178" width="11" height="11" rx="2" fill="#39d353" data-date="2026-10-31" data-level="4"/>
   <rect x="758" y="94" width="11" height="11" rx="2" fill="#39d353" data-date="2026-11-01" data-level="4"/>
   <rect x="758" y="108" width="11" height="11" rx="2" fill="#161b22" data-date="2026-11-02" data-level="0"/>
   <rect x="758" y="122" width="11" height="11" rx="2" fill="#161b22" data-date="2026-11-03" data-level="0"/>
   <rect x="758" y="136" width="11" height="11" rx="2" fill="#39d353" data-date="2026-11-04" data-level="4"/>
   <rect x="758" y="150" width="11" height="11" rx="2" fill="#39d353" data-date="2026-11-05" data-level="4"/>
-  <text x="30" y="209">AI tokens incl. cache · updated 2026-11-05</text>
+  <rect x="758" y="164" width="11" height="11" rx="2" fill="#39d353" data-date="2026-11-06" data-level="4"/>
+  <text x="30" y="209">AI tokens incl. cache · updated 2026-11-06</text>
   <text x="646" y="209">Less</text>
   <rect x="672" y="200" width="11" height="11" rx="2" fill="#161b22"/>
   <rect x="686" y="200" width="11" height="11" rx="2" fill="#0e4429"/>
