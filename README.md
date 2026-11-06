@@ -8,7 +8,7 @@
 **Front-end**
 
 - **언어·스타일** JavaScript · TypeScript · HTML · CSS · SCSS
-- **프레임워크·상태** Vue · Vue Router · Vuex · Pinia · React · Next.js · MobX · Recoil
+- **프레임워크·상태** Vue · Vue Router · Vuex · Pinia · React · Next.js · MobX
 - **빌드·테스트** Webpack · Babel · Vite · Jest · Playwright
 - **배포·협업** AWS S3 · CloudFront · Git · Azure DevOps
 
