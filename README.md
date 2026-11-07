@@ -33,7 +33,7 @@
 
 ### AI 코딩 활동
 
-Codex · Antigravity · Claude Code의 이 Mac에 기록된 활동입니다.
+Codex · Antigravity 기록된 활동입니다.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-dark.svg?v=ee09327c0126" />
