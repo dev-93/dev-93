@@ -45,7 +45,7 @@
   <img src="assets/ai-usage-light.svg?v=8c901ac07f1b" alt="Codex, Antigravity, Claude Code 일별 토큰 활동 그래프" width="690" />
 </picture>
 
-<sub>매주 일요일 갱신 · 개인 Mac의 로컬 사용 기록 · 캐시 토큰 포함</sub>
+<sub>개인 Mac의 로컬 사용 기록 · 캐시 토큰 포함</sub>
 
 <details>
 <summary>도구별 활동 보기</summary>
