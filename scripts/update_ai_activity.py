@@ -2,6 +2,7 @@
 """Combine only the requested local ccusage sources and render the OSS heatmap."""
 import json
 import hashlib
+import html
 from pathlib import Path
 import re
 import subprocess
@@ -11,6 +12,25 @@ ROOT = Path(__file__).resolve().parent.parent
 BIN = ROOT / "node_modules" / ".bin"
 SOURCES = ("codex", "antigravity", "claude")
 FIELDS = ("inputTokens", "outputTokens", "cacheCreationTokens", "cacheReadTokens")
+
+
+def add_tooltips(svg, values):
+    cell = re.compile(
+        r'(?P<element><rect\b(?=[^>]*\bdata-date="(?P<day>\d{4}-\d{2}-\d{2})")[^>]*)\s*/>'
+    )
+
+    def replace(match):
+        day = match.group("day")
+        amount = values.get(day, 0)
+        return (
+            f'{match.group("element")}>'
+            f'<title>{html.escape(day)}: {amount:,} tokens</title></rect>'
+        )
+
+    annotated, count = cell.subn(replace, svg)
+    if count == 0:
+        raise ValueError("활동 그래프에서 날짜별 셀을 찾을 수 없습니다.")
+    return annotated
 
 
 def main():
@@ -41,7 +61,7 @@ def main():
             for theme in ("light", "dark"):
                 name = f"ai-usage-{theme}.svg"
                 target = name if source == "all" else f"ai-usage-{source}-{theme}.svg"
-                content = (tmp / name).read_bytes()
+                content = add_tooltips((tmp / name).read_text(encoding="utf-8"), values).encode("utf-8")
                 (ROOT / "assets" / target).write_bytes(content)
                 versions[target] = hashlib.sha256(content).hexdigest()[:12]
 
