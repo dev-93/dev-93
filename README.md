@@ -20,20 +20,25 @@
 
 **AI**
 
-- **개발 도구** OpenCode · Codex · ChatGPT
-- **프로젝트 연동** Gemini API · Notion API · Telegram Bot
+- **개인 프로젝트 구현** Codex · 집에서 사용
+- **회사 개발** OpenCode
+- **문제 정리·학습** ChatGPT
+- **자료 조사·출처 확인** Perplexity
+- **대안 비교** Gemini
+- **코드·글 검토** Claude
+- **모델·작업 흐름 확장** 오픈소스 도구 · Skills · Notion API · Telegram Bot
 
 <br />
 
 ## AI로 일하는 방식
 
-- 개발에는 OpenCode와 Codex, 조사와 의사결정에는 ChatGPT를 씁니다.
-- 작업 규칙은 `AGENTS.md`에, 반복 절차는 Skills에 정리합니다. 상태와 결정은 Notion에 기록합니다.
-- 내장 기능을 먼저 활용하고, 결과는 직접 실행해 검증합니다.
+- 집에서는 Codex로 개인 프로젝트를 만들고, 회사 업무에는 OpenCode를 사용합니다. Gemini 중심으로 쓰던 개발 흐름은 최근 Codex로 옮겼습니다.
+- Gemini API 한 곳에만 의존하기보다 오픈소스 모델 도구와 Skills를 조합해 작업에 맞는 도구와 절차를 선택합니다. 프로젝트 상태와 결정은 Notion에 기록하고, 필요한 흐름은 Telegram Bot 등과 연결합니다.
+- 조사에는 출처를 확인하고, 코드와 결과물은 직접 실행해 검증합니다.
 
 ### AI 코딩 활동
 
-개인 프로젝트와 학습에 Codex와 Antigravity를 활용합니다. 아이디어를 빠르게 실험하고, 낯선 기술을 직접 구현하며 익히는 기록입니다.
+개인 Mac에 기록된 Codex·Claude Code·Antigravity 사용량입니다. 집에서 Codex로 개인 프로젝트를 만들며, Antigravity는 이전 IDE 사용 기록이 포함됩니다.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-dark.svg?v=de078d6f83d4" />
@@ -52,7 +57,7 @@
   <img src="assets/ai-usage-codex-light.svg?v=352a1ca309f8" alt="Codex 일별 토큰 활동" width="690" />
 </picture>
 
-**Antigravity**
+**Antigravity IDE (이전 사용 기록)**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-antigravity-dark.svg?v=f6a1b8513dc2" />
