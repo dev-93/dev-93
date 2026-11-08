@@ -33,14 +33,14 @@
 
 ### AI 코딩 활동
 
-Codex · Antigravity 기록된 활동입니다.
+개인 프로젝트와 학습에 Codex와 Antigravity를 활용합니다. 아이디어를 빠르게 실험하고, 낯선 기술을 직접 구현하며 익히는 기록입니다.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-dark.svg?v=de078d6f83d4" />
   <img src="assets/ai-usage-light.svg?v=8c901ac07f1b" alt="Codex, Antigravity, Claude Code 일별 토큰 활동 그래프" width="690" />
 </picture>
 
-<sub>매일 갱신 · 로컬 기록 기준 · 캐시 토큰 포함</sub>
+<sub>매주 일요일 갱신 · 개인 Mac의 로컬 사용 기록 · 캐시 토큰 포함</sub>
 
 <details>
 <summary>도구별 활동 보기</summary>
