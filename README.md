@@ -24,8 +24,8 @@
 - **회사 개발** OpenCode
 - **문제 정리·학습** ChatGPT
 - **자료 조사·출처 확인** Perplexity
-- **대안 비교** Gemini
-- **코드·글 검토** Claude
+- **Google 검색 기반 최신 정보 탐색** Gemini · Google 검색 연동 사용 시
+- **이전 프롬프트 코딩 경험** Claude 웹 대화
 - **모델·작업 흐름 확장** 오픈소스 도구 · Skills · Notion API · Telegram Bot
 
 <br />
@@ -38,11 +38,11 @@
 
 ### AI 코딩 활동
 
-개인 Mac에 기록된 Codex·Claude Code·Antigravity 사용량입니다. 집에서 Codex로 개인 프로젝트를 만들며, Antigravity는 이전 IDE 사용 기록이 포함됩니다.
+개인 Mac에 기록된 코딩 도구 사용량입니다. 집에서 Codex로 개인 프로젝트를 만들며, 과거 Antigravity 활동도 함께 표시합니다. Claude 웹 대화 사용량은 이 그래프에 포함되지 않습니다.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-dark.svg?v=de078d6f83d4" />
-  <img src="assets/ai-usage-light.svg?v=8c901ac07f1b" alt="Codex, Antigravity, Claude Code 일별 토큰 활동 그래프" width="690" />
+  <img src="assets/ai-usage-light.svg?v=8c901ac07f1b" alt="Codex와 Antigravity 일별 토큰 활동 그래프" width="690" />
 </picture>
 
 <sub>개인 Mac의 로컬 사용 기록 · 캐시 토큰 포함</sub>
