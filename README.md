@@ -41,8 +41,8 @@
 개인 Mac에 기록된 코딩 도구 사용량입니다. 집에서 Codex로 개인 프로젝트를 만들며, 과거 Antigravity 활동도 함께 표시합니다. Claude 웹 대화 사용량은 이 그래프에 포함되지 않습니다.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-dark.svg?v=007aac997b6d" />
-  <img src="assets/ai-usage-light.svg?v=711c653d4f7c" alt="Codex와 Antigravity 일별 토큰 활동 그래프" width="690" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-dark.svg?v=342c30e35106" />
+  <img src="assets/ai-usage-light.svg?v=68453e345b5a" alt="Codex와 Antigravity 일별 토큰 활동 그래프" width="690" />
 </picture>
 
 <sub>개인 Mac의 로컬 사용 기록 · 캐시 토큰 포함</sub>
@@ -53,8 +53,8 @@
 **Codex**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-codex-dark.svg?v=74a507b5a780" />
-  <img src="assets/ai-usage-codex-light.svg?v=009f340dbd35" alt="Codex 일별 토큰 활동" width="690" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-codex-dark.svg?v=760e6678c5f0" />
+  <img src="assets/ai-usage-codex-light.svg?v=ac97b794640b" alt="Codex 일별 토큰 활동" width="690" />
 </picture>
 
 **Antigravity IDE (이전 사용 기록)**
